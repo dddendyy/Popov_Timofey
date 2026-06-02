@@ -1,0 +1,13 @@
+body {
+    background-color:  rgb(159, 218, 82);
+    font-family: sans-serif;
+}
+
+header {
+    background-color: rgb(32, 219, 157);
+    padding: 20px;
+
+}
+
+img{height: 200px;
+width: 200px ;}
